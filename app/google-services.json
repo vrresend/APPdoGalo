@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "256390636464",
+    "project_id": "app-da-massa",
+    "storage_bucket": "app-da-massa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256390636464:android:a3f56e61237347d8a26c75",
+        "android_client_info": {
+          "package_name": "com.viniciusapp.appdamassa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "256390636464-9cvn8dcpjpgiuqgti970lvefbipucb8b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB63Hgf8QirXJfyxySGa887bifQb9vwjQ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "256390636464-9cvn8dcpjpgiuqgti970lvefbipucb8b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
